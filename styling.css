@@ -1,0 +1,73 @@
+.image1 
+{ 
+    background-image: url("image1.jpg"); 
+    min-height: 500px; 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+.image2 
+{ 
+    background-image: url("image2.jpg"); 
+    min-height: 500px; 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+.image3 
+{ 
+    background-image: url("image3.jpg"); 
+    min-height: 500px; 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+.image4 
+{ 
+    background-image: url("image4.jpg"); 
+    min-height: 500px; 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+p 
+{ 
+    font-size:24px; 
+    margin: auto; 
+}
+#heading1
+{
+    text-align: center; 
+    height: 100px; 
+    background-color: black; 
+    color: white;   
+}
+#div1
+{
+    height: 100px;
+    text-align: center; 
+    background-color: black; 
+    color: white;
+}
+#div2
+{
+    height: 100px;
+    text-align: center; 
+    background-color: black; 
+    color: white;
+}
+#div3
+{
+    height: 100px;
+    text-align: center; 
+    background-color: black; 
+    color: white;
+}
+div
+{
+    text-align: center;
+}
